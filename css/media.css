@@ -12,7 +12,8 @@
 }
 
 .btn_al {
-  text-align: right;
+  position: relative;
+  left: 195px;
 }
 .btn_u {
   width: 90px;
@@ -97,7 +98,8 @@
   text-align: center;
 }
 .btn_al {
-  text-align: right;
+  position: relative;
+  left: 405px;
 }
 .img {
   padding: 0 80px;
@@ -157,8 +159,9 @@
     text-align: center;
   }
   .btn_al {
-    text-align: right;
- }
+    position: relative;
+    left: 585px;
+  }
  .img {
   padding: 0 80px;
   margin-bottom: 50px;
@@ -229,7 +232,6 @@
 .cf_right ul li img {
   width: 20px;
 }
-
  }
 
 /* Extra large devices (large desktops, 1200px and up) */
